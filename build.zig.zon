@@ -3,7 +3,7 @@
         "Matt Wilson <matthew@synesis.com.au>",
     },
     .description = "Path parsing library, for Zig",
-    .fingerprint = 0x0,
+    .fingerprint = 0x3763d74327cb85ea,
     .name = .libpath,
     .paths = .{
         "AUTHORS.md",
